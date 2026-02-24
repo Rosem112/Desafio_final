@@ -1,0 +1,20 @@
+[
+  {
+    "data": "01/02/2026",
+    "categoria": "Alimentação",
+    "descricao": "Supermercado",
+    "valor": 800
+  },
+  {
+    "data": "05/02/2026",
+    "categoria": "Moradia",
+    "descricao": "Aluguel",
+    "valor": 1200
+  },
+  {
+    "data": "10/02/2026",
+    "categoria": "Lazer",
+    "descricao": "Cinema",
+    "valor": 400
+  }
+]
